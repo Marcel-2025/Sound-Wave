@@ -8,8 +8,8 @@ Die Website ist statisch und benötigt keinen Build-Prozess. Die `index.html` ka
 
 - `index.html` – responsive Premium-Landingpage
 - `style.css` / `script.js` – Design, responsive Menü, Icon-Auswahl und Screenshot-Lightbox
-- `datenschutz.html` – ausführliche Datenschutz-**Vorlage** für Website und geplante Android-App
-- `impressum.html` – Impressums-**Vorlage**
+- `datenschutz.html` – Datenschutzerklärung (Website fertig, App-Abschnitte bis zum Release als „geplant“ markiert)
+- `impressum.html` – Weiterleitung auf das zentrale Impressum (flondy.github.io/app-store/impressum.html)
 - `assets/icons/` – 4 neue randlose, quadratische App-Icons, je 1024 und 512 px
 - `assets/screenshots/` – 8 Android-UI-**Konzeptscreenshots** in 1080 × 1920 px
 - `assets/previews/` – komprimierte JPG-Vorschauen
@@ -19,7 +19,7 @@ Die Website ist statisch und benötigt keinen Build-Prozess. Die `index.html` ka
 
 ## Wichtige Angaben vor Veröffentlichung
 
-1. **Datenschutz und Impressum vervollständigen.** Der echte Verantwortliche, vollständige ladungsfähige Anschrift, konkrete Angaben zum Hosting, Protokollierung, Speicherdauer und ggf. SDKs/Empfänger sind offen und als Platzhalter markiert.
+1. **Datenschutz:** Verantwortlicher und Hosting (GitHub Pages) sind seit 13.11.2026 eingetragen, das Impressum zeigt aufs zentrale Flondy-Impressum. Vor dem App-Release die App-Abschnitte (Berechtigungen, SDKs, Käufe) mit dem echten Stand abgleichen.
 2. **Google Play Link** ergänzen, sobald die App online ist. Aktuell verweist die Seite bewusst **nicht** auf eine erfundene Store-Adresse.
 3. **Alle Funktionsversprechen abgleichen.** Screenshots zeigen Konzeptansichten mit Beispieldaten, keine nachgewiesenen Funktionen einer veröffentlichten App.
 4. **Billing:** Preise, Abos und Lifetime erst dann öffentlich als kaufbar anbieten, wenn Play Billing, Produktdetails, Kaufprüfung und Premium-Funktionen tatsächlich implementiert sind.
